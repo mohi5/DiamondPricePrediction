@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: Diamond_price_prediction
 Version: 0.0.1
-Author: krish
+Author: Mohit
+
 Author-email: mohitkumar6094@gmail.com
 Requires-Dist: pandas
 Requires-Dist: seaborn
